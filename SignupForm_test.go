@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"github.com/stretchr/testify/assert"
+	"https://github.com/stretchr/testify/assert"
 )
 
 func TestValidEmail_IsSaved(t *testing.T) {
